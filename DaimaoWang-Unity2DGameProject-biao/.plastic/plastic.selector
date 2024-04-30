@@ -1,0 +1,4 @@
+repository "di yi 2d@wechat_os_qy00ipaoahnvexikv7tam6uow@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
